@@ -3,11 +3,23 @@
               android:orientation="vertical"
               android:layout_width="fill_parent"
               android:layout_height="fill_parent"
-        >
-    <TextView
-            android:layout_width="fill_parent"
-            android:layout_height="wrap_content"
-            android:text="Hello World, MyActivity"
+              android:background="@drawable/radial">
+    <ImageView
+            android:id="@+id/Title"
+            android:layout_width="180dp"
+            android:layout_height="90dp"
+            android:src="@drawable/logo"
+            android:layout_gravity="center"/>
+    <ImageView
+            android:id="@+id/GalleryButton"
+            android:onClick="onClickGalleryButton"
+            android:layout_width="160dp"
+            android:layout_height="80dp"
+            android:src="@drawable/gallerybutton"
+            android:contentDescription="Open Chao Gallery"
             />
+
+
+
 </LinearLayout>
 

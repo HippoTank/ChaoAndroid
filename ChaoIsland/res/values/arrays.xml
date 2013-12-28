@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="alignment">
+        <item>Dark</item>
+        <item>Hero</item>
+        <item>Neutral</item>
+    </string-array>
+    <string-array name="firstEvolution">
+        <item>"Normal"</item>
+        <item>Swim</item>
+        <item>Fly</item>
+        <item>Run</item>
+        <item>Power</item>
+        <item>Chaos</item>
+    </string-array>
+    <string-array name="tone">
+        <item>"Normal"</item>
+        <item>Mono-Tone</item>
+        <item>Two-Tone</item>
+        <item>Jewel</item>
+    </string-array>
+    <string-array name="colour">
+        <item>"Normal"</item>
+        <item>Red</item>
+        <item>Blue</item>
+        <item>Yellow</item>
+        <item>Pink</item>
+        <item>Purple</item>
+        <item>Sky Blue</item>
+        <item>Orange</item>
+        <item>Green</item>
+        <item>Grey</item>
+        <item>Lime Green</item>
+        <item>Black</item>
+    </string-array>
+    <string-array name="jewel">
+        <item>"Normal"</item>
+        <item>Silver</item>
+        <item>Gold</item>
+        <item>Ruby</item>
+        <item>Sapphire</item>
+        <item>Amethyst</item>
+        <item>Emerald</item>
+        <item>Garnet</item>
+        <item>Aquamarine</item>
+        <item>Peridot</item>
+        <item>Topaz</item>
+        <item>Onyx</item>
+    </string-array>
+
+</resources>
