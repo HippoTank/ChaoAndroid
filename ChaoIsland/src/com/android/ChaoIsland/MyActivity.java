@@ -1,5 +1,7 @@
 package com.android.ChaoIsland;
 
+import com.chaoisland.R;
+
 import android.app.Activity;
 import android.os.Bundle;
 
